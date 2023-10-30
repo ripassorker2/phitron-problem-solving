@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "stdio.h": "c",
+        "sstream": "c",
+        "regex": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
