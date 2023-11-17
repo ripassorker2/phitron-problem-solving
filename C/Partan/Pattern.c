@@ -15,7 +15,7 @@ int main()
 
         for (int j = 1; j <= k; j++)
         {
-            if (s % 2 == 0)
+            if (i % 2 != 0)
             {
                 printf("#");
             }
