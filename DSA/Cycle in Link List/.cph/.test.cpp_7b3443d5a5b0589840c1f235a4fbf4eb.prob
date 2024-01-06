@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/home/rsr/My Computer/Programming/Phitron/DSA/Cycle in Link List/test.cpp","tests":[{"id":1702660699427,"input":"5\n0 10\n1 20\n1 30\n1 40\n2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rsr/My Computer/Programming/Phitron/DSA/Cycle in Link List/test.cpp","group":"local","local":true}
