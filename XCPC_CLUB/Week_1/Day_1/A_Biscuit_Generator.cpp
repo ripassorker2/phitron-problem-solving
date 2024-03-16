@@ -16,6 +16,5 @@ int main()
         ans += b;
     }
     cout << ans;
-
     return 0;
 }
